@@ -1,0 +1,16 @@
+# Ignorar arquivos XML
+*.xml
+
+# Ignorar arquivos TXT
+*.txt
+
+# Ignorar diretórios específicos (opcional)
+chaves/
+nfe/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários
+*.tmp
+*.temp
